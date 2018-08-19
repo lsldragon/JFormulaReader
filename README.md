@@ -1,2 +1,2 @@
 # JFormulaReader
-a software to read .jft files 
+## This software is to preview the .jft file which is generate by JFormula.jar
